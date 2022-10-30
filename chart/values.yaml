@@ -224,4 +224,5 @@ velero:
   enable: false
 
 coredns:
-  enable: false
+  enable: true
+  fullnameOverride: coredns
