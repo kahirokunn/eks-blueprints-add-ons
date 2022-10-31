@@ -196,7 +196,7 @@ chaosMesh:
 # Cilium Mesh Values
 cilium:
   enable: false
-  enableHubbleUi: false
+  enableHubbleUi: true
 
 # Reloader Values
 reloader:
